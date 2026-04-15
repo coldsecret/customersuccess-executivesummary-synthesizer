@@ -1,5 +1,5 @@
 # customersuccess-executivesummary-synthesizer
-Executive Summary" Synthesizer
+Executive Summary" Synthesizer. This skill reduces that prep time to 30 seconds by surfacing the "Signal" from the "Noise."
 # 📋 Executive Summary Synthesizer
 
 > **The AI "Chief of Staff" for Senior CS Leaders.**
